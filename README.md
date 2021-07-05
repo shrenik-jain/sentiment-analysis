@@ -1,2 +1,2 @@
 # sentiment-analysis
-A Sentiment Analyzer which predicts whether the movie ratings are positive or negative
+Developed a Deep Learning model to automatically classify movie reviews as Positive or Negative
